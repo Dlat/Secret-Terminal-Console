@@ -1,4 +1,4 @@
-var e = "info@logicminds.net";
+var e = "info@romelvera.com";
 var App = {
     echo: function(text) {
         this.echo(text);
@@ -26,7 +26,7 @@ var App = {
     },
 	
     contact: function() {
-		this.echo("Website: <a href='https://www.logicminds.net'>LogicMinds</a>", {raw:true});
+		this.echo("Website: <a href='https://www.romelvera.com'>Romel Vera</a>", {raw:true});
         this.echo("Email  : " + e); 
         this.echo("Twitter: @RomelSan"); 
     },
@@ -36,8 +36,8 @@ var App = {
     },
 	
 	romelsan: function(){
-		this.echo("Go to my website: <a href='https://www.logicminds.net'>LogicMinds</a>", {raw:true});
-        //window.open("https://www.logicminds.net");
+		this.echo("Go to my website: <a href='https://www.romelvera.com'>Romel Vera</a>", {raw:true});
+        //window.open("https://www.romelvera.com");
     },
 	
     id: function(){

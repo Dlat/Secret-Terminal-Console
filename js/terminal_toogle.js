@@ -25,7 +25,7 @@ $.extend_if_has = function(desc, source, array) {
             term.echo("you don't set eval for terminalGUI");
         };
         var settings = {
-            prompt: 'core&#64;logicminds.net> ',
+            prompt: 'core&#64;romelvera.com> ',
             name: 'Core Terminal',
             height: 768,
             enabled: false,
